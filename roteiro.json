@@ -1,0 +1,151 @@
+{
+    "titulo": "Feliz Aniversário, Raisa ❤️",
+    "musica": "audio/musica.mp3",
+    "pdf": "reserva/passagem.pdf",
+    "fotoCasal": "assets/nos.jpg",
+  
+    "viagem": {
+      "destino": "São Paulo",
+      "bairro": "Liberdade",
+      "companhia": "Azul",
+      "localizador": "KS463R",
+      "origem": "Porto Alegre",
+      "chegada": "São Paulo",
+      "ida": "21/08/2026",
+      "volta": "23/08/2026",
+      "passageiros": [
+        "Kevin",
+        "Raisa"
+      ]
+    },
+  
+    "carta": [
+      "Meu amor,",
+      "",
+      "Cada viagem ao seu lado",
+      "se transforma em uma lembrança",
+      "que quero guardar para sempre.",
+      "",
+      "Você faz qualquer lugar",
+      "parecer especial.",
+      "",
+      "Então pensei...",
+      "",
+      "Que seria maravilhoso",
+      "criarmos mais uma lembrança juntos.",
+      "",
+      "Prepare sua mala...",
+      "",
+      "Porque nossa próxima aventura",
+      "já está marcada.",
+      "",
+      "Feliz aniversário.",
+      "",
+      "Eu te amo ❤️"
+    ],
+  
+    "cenas": [
+      {
+        "id": 1,
+        "titulo": "Feche os olhos...",
+        "texto": "Imagine um lugar especial...",
+        "duracao": 16,
+        "imagens": [
+          "midia/Mídia.jfif",
+          "midia/Mídia (1).jfif"
+        ]
+      },
+      {
+        "id": 2,
+        "titulo": "Existe um lugar...",
+        "texto": "Um lugar que você ama visitar.",
+        "duracao": 16,
+        "imagens": [
+          "midia/Mídia (2).jfif",
+          "midia/Mídia (3).jfif"
+        ]
+      },
+      {
+        "id": 3,
+        "titulo": "Um lugar cheio de histórias...",
+        "texto": "Lanternas, cultura e lembranças em cada esquina.",
+        "duracao": 16,
+        "imagens": [
+          "midia/Mídia (4).jfif",
+          "midia/Mídia (5).jfif"
+        ]
+      },
+      {
+        "id": 4,
+        "titulo": "Cheio de cores...",
+        "texto": "Onde cada caminhada parece contar uma nova história.",
+        "duracao": 16,
+        "imagens": [
+          "midia/Mídia (6).jfif",
+          "midia/Mídia (7).jfif"
+        ]
+      },
+      {
+        "id": 5,
+        "titulo": "Cheio de lembranças...",
+        "texto": "Um lugar que sempre faz você sorrir.",
+        "duracao": 16,
+        "imagens": [
+          "midia/Mídia (8).jfif",
+          "midia/Mídia (9).jfif"
+        ]
+      },
+      {
+        "id": 6,
+        "titulo": "Mas existe alguém...",
+        "texto": "Que consegue deixar qualquer lugar ainda mais bonito.",
+        "duracao": 16,
+        "imagens": [
+          "midia/Mídia (10).jfif",
+          "midia/Mídia (11).jfif"
+        ]
+      },
+      {
+        "id": 7,
+        "titulo": "Você ❤️",
+        "texto": "Obrigado por transformar cada viagem em uma lembrança inesquecível.",
+        "duracao": 16,
+        "imagens": [
+          "midia/Mídia (12).jfif",
+          "midia/Mídia (13).jfif"
+        ]
+      },
+      {
+        "id": 8,
+        "titulo": "Ainda temos muitos lugares...",
+        "texto": "E muitas histórias para viver juntos.",
+        "duracao": 16,
+        "imagens": [
+          "midia/Mídia (14).jfif",
+          "midia/Mídia (15).jfif"
+        ]
+      },
+      {
+        "id": 9,
+        "titulo": "Prepare sua mala...",
+        "texto": "Porque a nossa próxima aventura está prestes a começar.",
+        "duracao": 16,
+        "imagens": [
+          "midia/Mídia (16).jfif",
+          "midia/Mídia (17).jfif"
+        ]
+      }
+    ],
+  
+    "revelacao": {
+      "titulo": "Nosso próximo destino é...",
+      "principal": "SÃO PAULO ❤️",
+      "subtitulo": "E é claro... vamos passear pelo bairro da Liberdade."
+    },
+  
+    "final": {
+      "titulo": "Obrigado por fazer minha vida muito mais feliz.",
+      "linha2": "Feliz aniversário.",
+      "linha3": "Eu te amo ❤️"
+    }
+  }
